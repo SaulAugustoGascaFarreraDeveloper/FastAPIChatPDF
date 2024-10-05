@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain_community
+langchain_openai
+langchain_ollama
+beautifulsoup4
+chromadb
+python-multipart
+pypdf
+httptools
